@@ -1,0 +1,92 @@
+[
+  {
+    "model": "articles.partner",
+    "pk": 1,
+    "fields": {
+      "name": "FIRCA",
+      "image": "http://localhost:8000/api/media/logo%402x-1-150x150.png",
+      "alt": "client",
+      "created": "2022-03-10 07:39:08.181821"
+    }
+  },
+  {
+    "model": "articles.partner",
+    "pk": 2,
+    "fields": {
+      "name": "European Union",
+      "image": "http://localhost:8000/api/media/European-Union-Flag.jpg",
+      "alt": "client",
+      "created": "2022-03-10 07:39:33.065649"
+    }
+  },
+  {
+    "model": "articles.partner",
+    "pk": 3,
+    "fields": {
+      "name": "ENSBTP",
+      "image": "http://localhost:8000/api/media/ENSBTP_logo.jpg",
+      "alt": "client",
+      "created": "2022-03-10 07:38:58.225820"
+    }
+  },
+  {
+    "model": "articles.partner",
+    "pk": 4,
+    "fields": {
+      "name": "CNRA",
+      "image": "http://localhost:8000/api/media/159099509_119845760150003_797773920663752809_n.jpg",
+      "alt": "client",
+      "created": "2022-03-10 07:38:42.227757"
+    }
+  },
+  {
+    "model": "articles.partner",
+    "pk": 5,
+    "fields": {
+      "name": "OLAM",
+      "image": "http://localhost:8000/api/media/OLAM-ATIBT-MEMBER.jpg",
+      "alt": "client",
+      "created": "2022-03-10 07:37:42.552125"
+    }
+  },
+  {
+    "model": "articles.partner",
+    "pk": 6,
+    "fields": {
+      "name": "SEA INVEST",
+      "image": "http://localhost:8000/api/media/5f1abba4cc820-SEA-INVEST-ok.jpg",
+      "alt": "fournisseur",
+      "created": "2022-03-10 06:51:32.146584"
+    }
+  },
+  {
+    "model": "articles.partner",
+    "pk": 7,
+    "fields": {
+      "name": "PSL",
+      "image": "http://localhost:8000/api/media/5f1abb67b48b9-petro-sea-logistique-ok.jpg",
+      "alt": "fournisseur",
+      "created": "2022-03-10 06:51:08.069523"
+    }
+  },
+  {
+    "model": "articles.partner",
+    "pk": 8,
+    "fields": {
+      "name": "PFO AFRICA",
+      "image": "http://localhost:8000/api/media/PFO-AFRICA1.png",
+      "alt": "fournisseur",
+      "created": "2022-03-10 06:50:48.486903"
+    }
+  },
+  {
+    "model": "articles.partner",
+    "pk": 9,
+    "fields": {
+      "name": "COIC SA",
+      "image": "http://localhost:8000/api/media/download.jpg",
+      "alt": "fournisseur",
+      "created": "2022-03-10 06:49:54.526680"
+    }
+  }
+]

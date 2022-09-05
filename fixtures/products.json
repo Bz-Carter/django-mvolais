@@ -1,0 +1,91 @@
+[
+  {
+    "model": "articles.product",
+    "pk": 1,
+    "fields": {
+      "title": "Equipements de Protection Individuelle",
+      "description": "S1P-SRC, S2-SRC, S3-SRC semelle PU; S3-SRC semelle TPU; S3-SRC-HRO semelle PU/NITRILE; S3-SRA-HRO semelle NITRILE; S5-SRA semelle NITRILE",
+      "image": "http://localhost:8000/api/media/epi_pied.jpg",
+      "category": 1,
+      "photos": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "created": "2021-12-29 19:52:31.782187"
+
+    }
+  },
+  {
+    "model": "articles.product",
+    "pk": 2,
+    "fields": {
+      "title": "Matériel informatique",
+      "description": "Gants cuir; Gants synthétiques; Gants textile",
+      "image": "http://localhost:8000/api/media/epi_mains.jpg",
+      "category": 1,
+      "photos": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "created": "2021-12-29 19:58:03.156865"
+
+    }
+  },
+  {
+    "model": "articles.product",
+    "pk": 3,
+    "fields": {
+      "title": "Protection du crane",
+      "description": "Casques de chantier; Casques de forestier; Casques électricien; Casques monteur; Casques pompier; Casquettes anti-heurt",
+      "image": "http://localhost:8000/api/media/epi_crane.jpg",
+      "category": 1,
+      "photos": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "created": "2021-12-29 20:07:07.609746"
+
+    }
+  },
+  {
+    "model": "articles.product",
+    "pk": 4,
+    "fields": {
+      "title": "Protection respiratoire",
+      "description": "Masques anti-poussières coques, pliables et spécifiques; Demi-masques et masques complets; Ventilation assistée et adduction d’air; Appareils respiratoires isolants; Détection des gaz",
+      "image": "http://localhost:8000/api/media/epi_respiratoire.jpg",
+      "category": 1,
+      "photos": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "created": "2021-12-30 13:17:18.918629"
+
+    }
+  },
+  {
+    "model": "articles.product",
+    "pk": 6,
+    "fields": {
+      "title": "Protection auditive",
+      "description": "Bouchons d'oreilles jetables; Distributeurs; Arceaux; Casques antibruit; Casques antibruit de communication",
+      "image": "http://localhost:8000/api/media/epi_auditive.jpg",
+      "category": 1,
+      "photos": [
+        1,
+        2,
+        3
+      ],
+      "created": "2021-12-30 13:37:09.322954"
+
+    }
+  }
+]

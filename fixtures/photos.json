@@ -1,0 +1,211 @@
+[
+  {
+    "model": "articles.photo",
+    "pk": 1,
+    "fields": {
+      "name": "epi auditive",
+      "image": "http://localhost:8000/api/media/epi_auditive_1.jpg",
+      "alt": "",
+      "owner": 1,
+      "created": "2021-12-29 19:52:31.782187"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 2,
+    "fields": {
+      "name": "epi auditive 2",
+      "image": "http://localhost:8000/api/media/epi_auditive_2.jpg",
+      "alt": "",
+      "owner": 1,
+      "created": "2021-12-29 19:52:31.782187"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 3,
+    "fields": {
+      "name": "epi auditive 3",
+      "image": "http://localhost:8000/api/media/epi_auditive_3.jpg",
+      "alt": "",
+      "owner": 1,
+      "created": "2021-12-29 19:52:31.782187"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 4,
+    "fields": {
+      "name": "epi crane",
+      "image": "http://localhost:8000/api/media/epi_crane_1.jpg",
+      "alt": "",
+      "owner": 1,
+      "created": "2021-12-29 19:52:31.782187"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 5,
+    "fields": {
+      "name": "epi crane 2",
+      "image": "http://localhost:8000/api/media/epi_crane_2.jpg",
+      "alt": "",
+      "owner": 1,
+      "created": "2021-12-29 19:52:31.782187"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 6,
+    "fields": {
+      "name": "epi crane 3",
+      "image": "http://localhost:8000/api/media/epi_crane_3.jpg",
+      "alt": "",
+      "owner": 1,
+      "created": "2021-12-29 19:52:31.782187"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 7,
+    "fields": {
+      "name": "epi crane 4",
+      "image": "http://localhost:8000/api/media/epi_crane_4.jpg",
+      "alt": "",
+      "owner": 1,
+      "created": "2021-12-29 19:52:31.782187"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 8,
+    "fields": {
+      "name": "epi mains",
+      "image": "http://localhost:8000/api/media/epi_mains_1.jpg",
+      "alt": "",
+      "owner": 1,
+      "created": "2021-12-29 19:52:31.782187"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 9,
+    "fields": {
+      "name": "epi mains 2",
+      "image": "http://localhost:8000/api/media/epi_mains_2.jpg",
+      "alt": "",
+      "owner": 1,
+      "created": "2021-12-29 19:52:31.782187"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 10,
+    "fields": {
+      "name": "epi mains 3",
+      "image": "http://localhost:8000/api/media/epi_mains_3.jpg",
+      "alt": "",
+      "owner": 1,
+      "created": "2021-12-29 19:52:31.782187"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 11,
+    "fields": {
+      "name": "epi mains 4",
+      "image": "http://localhost:8000/api/media/epi_mains_4.jpg",
+      "alt": "",
+      "owner": 1,
+      "created": "2021-12-29 19:52:31.782187"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 12,
+    "fields": {
+      "name": "epi pied 1",
+      "image": "http://localhost:8000/api/media/epi_pied_1.jpg",
+      "alt": "",
+      "owner": 1,
+      "created": "2021-12-29 19:52:31.782187"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 13,
+    "fields": {
+      "name": "epi pied 2",
+      "image": "http://localhost:8000/api/media/epi_pied_2.jpg",
+      "alt": "",
+      "owner": 1,
+      "created": "2021-12-29 19:52:31.782187"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 14,
+    "fields": {
+      "name": "epi pied 3",
+      "image": "http://localhost:8000/api/media/epi_pied_3.jpg",
+      "alt": "",
+      "owner": 1,
+      "created": "2021-12-29 19:52:31.782187"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 15,
+    "fields": {
+      "name": "epi pied 4",
+      "image": "http://localhost:8000/api/media/epi_pied_4.jpg",
+      "alt": "",
+      "owner": 1,
+      "created": "2021-12-29 19:52:31.782187"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 16,
+    "fields": {
+      "name": "epi respiratoire",
+      "image": "http://localhost:8000/api/media/epi_respiratoire_1.jpg",
+      "alt": "",
+      "owner": 1,
+      "created": "2021-12-29 19:52:31.782187"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 17,
+    "fields": {
+      "name": "epi respiratoire 2",
+      "image": "http://localhost:8000/api/media/epi_respiratoire_2.jpg",
+      "alt": "",
+      "owner": 1,
+      "created": "2021-12-29 19:52:31.782187"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 18,
+    "fields": {
+      "name": "epi respiratoire 3",
+      "image": "http://localhost:8000/api/media/epi_respiratoire_3.jpg",
+      "alt": "",
+      "owner": 1,
+      "created": "2021-12-29 19:52:31.782187"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 19,
+    "fields": {
+      "name": "epi respiratoire 4",
+      "image": "http://localhost:8000/api/media/epi_respiratoire_4.jpg",
+      "alt": "",
+      "owner": 1,
+      "created": "2021-12-29 19:52:31.782187"
+    }
+  }
+]

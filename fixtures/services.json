@@ -1,0 +1,35 @@
+[
+  {
+    "model": "articles.service",
+    "pk": 1,
+    "fields": {
+      "name": "Pièces détachées",
+      "image": "http://localhost:8000/api/media/materiel%20industriel.jpg",
+      "body": "<em><span>LE GROUPE M'VOLAIS&#160; est sp&#233;cialis&#233;e dans la vente, l&#8217;installation de pi&#232;ces d&#233;tach&#233;es:</span></em><div><em><span><br></span></em></div><div><ul><li><font color=\"#888888\" face=\"Montserrat, sans-serif\"><i>Pi&#232;ces De Chariot Pour Manutention</i></font></li><li><font color=\"#888888\" face=\"Montserrat, sans-serif\"><i>Pi&#232;ces Des Engins TP</i></font></li><li><font color=\"#888888\" face=\"Montserrat, sans-serif\"><i>Pi&#232;ces De Engins De Mine</i></font></li><li><font color=\"#888888\" face=\"Montserrat, sans-serif\"><i>Pi&#232;ces Des Engins De Carri&#232;re</i></font></li><li><font color=\"#888888\" face=\"Montserrat, sans-serif\"><i>Pi&#232;ces De Dompresseur</i></font></li><li><em><span><span><font color=\"#888888\" face=\"Montserrat, sans-serif\">Pi&#232;ce De Roulement</font></span></span></em></li></ul></div>",
+      "description": "Mine, des engin de TP et Carrière...",
+      "created": "2022-07-13 17:49:03.820029"
+    }
+  },
+  {
+    "model": "articles.service",
+    "pk": 2,
+    "fields": {
+      "name": "EPI",
+      "image": "http://localhost:8000/api/media/Equipement%20industriel.jpg",
+      "body": "<span><strong>LE GROUPE M'VOLAIS</strong> est sp&#233;cialis&#233; dans la vente d'&#233;quipement de protection industriel<br></span>",
+      "description": "Equipement de protection individuel",
+      "created": "2022-07-13 17:51:36.598428"
+    }
+  },
+  {
+    "model": "articles.service",
+    "pk": 3,
+    "fields": {
+      "name": "Matériel informatique",
+      "image": "http://localhost:8000/api/media/R.png",
+      "body": "<strong>LE GROUPE M'VOLAIS</strong><span>&#160; est spécialisée dans la vente, l’installation et la maintenance de matériels informatique . Il fournit des matériels informatique. Ces matériels informatique sont : Ordinateurs fixes, ordinateurs portables et tablettes; serveurs; équipements de réseau; téléphones IP et équipements de télécommunication; imprimantes; consommables et médias; périphériques et accessoires; logiciels et licences... etc</span>",
+      "description": "est spécialisée dans la vente, l’installation et la maintenance de matériels informatique . Il fournit des matériels informatique. Ces matériels informatique sont :...",
+      "created": "2021-12-16 02:27:20.283566"
+    }
+  }
+]

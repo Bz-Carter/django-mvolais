@@ -1,0 +1,27 @@
+version: '3.9'
+services:
+  mvolais_api:
+    container_name: django_mvolais_api
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/app
+    ports:
+      - 8000:8000
+    depends_on:
+      - mvolais_db
+
+  mvolais_db:
+    container_name: django_mvolais_db
+    image: mysql:5.7.22
+    restart: always
+    environment:
+      MYSQL_DATABASE: mvolais_platform
+      MYSQL_USER: root
+      MYSQL_PASSWORD: root
+      MYSQL_ROOT_PASSWORD: root
+    volumes:
+      - .dbdata:/var/lib/mysql
+    ports:
+      - 33065:3306
